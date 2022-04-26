@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "strict": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "strictPropertyInitialization": false
+    }
+}
